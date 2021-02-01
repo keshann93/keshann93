@@ -9,8 +9,5 @@
 - 😄 Pronouns: he/him/his
 - ⚡ For any programming related updates check my [medium profile](https://medium.com/@keshshen) 
 
-
-[![Keshan's github stats](https://github-readme-stats.vercel.app/api?username=keshann93&count_private=true&show_icons=true&icon_color=2f80ed)](https://keshann93.github.io)
-
 [![GitHub followers](https://img.shields.io/github/followers/keshann93?label=Follow%20%40keshann93&style=social)](https://github.com/keshann93) &nbsp;
 [![Twitter Follow](https://img.shields.io/twitter/follow/keshshen?style=social)](https://twitter.com/keshshen)
